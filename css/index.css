@@ -179,7 +179,7 @@ html {
 }
 .page1 .name{
     position: absolute;
-    bottom: 3.72rem;
+    bottom: 3.32rem;
     left: 2.04rem;
     width: 2.6rem;
     height: .76rem;
@@ -196,7 +196,7 @@ html {
     animation: fadeInUp 2s ease 1.6s 1 both;
 }
 .page1 .name.name2{
-    bottom: 2.94rem;
+    bottom: 2rem;
     font-size: .28rem;
 }
 .page1 .chance{
