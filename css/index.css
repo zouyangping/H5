@@ -83,25 +83,18 @@ html {
 }
 .page1{
      position: relative;
-     /*background: url("../images/bg3.png") no-repeat -1rem .8rem;
-     background-size: cover;*/
  }
-
-/*.page1 .bg{
-    width:1rem;
-    height: 1rem;
-}*/
 .page1 .back img{
     width: 8.36rem;
     height: 11.06rem;
-    margin-top: .98rem;
+   /* margin-top: .98rem;*/
     margin-left: -0.92rem;
 }
 .page1 .bg img{
     opacity: 0;
     width: 10rem;
     height: 14rem;
-    margin-top: 0;
+    margin-top: -0.64rem;
     margin-left: -2rem;
 }
 #page1 .bg img{
@@ -116,10 +109,10 @@ html {
     position: absolute;
 }
 .page1 .circle{
-    top: 2.64rem;
+    top: 1.8rem;
     left: 1.1rem;
-    width: 4.4rem;
-    height: 4.4rem;
+    width: 4.2rem;
+    height: 4.2rem;
     opacity: .7;
 }
 #page1 .circle{
@@ -128,7 +121,7 @@ html {
 }
 .page1 .top{
     opacity: 0;
-    top: 2.34rem;
+    top: 1.5rem;
     /*left: 2.86rem;*/
     left: 50%;
     margin-left: -0.36rem;
@@ -142,7 +135,7 @@ html {
 }
 .page1 .bottom{
     opacity: 0;
-    top: 6.8rem;
+    top: 5.74rem;
     /*left: 2.86rem;*/
     left: 50%;
     margin-left: -0.36rem;
@@ -156,7 +149,7 @@ html {
 }
 .page1 .title{
     position: absolute;
-    top: 2.64rem;
+    top: 1.8rem;
     left: 1.1rem;
     padding-top: .64rem;
     width: 4.4rem;
@@ -171,7 +164,7 @@ html {
 }
 .page1 .title span{
     display: block;
-    font-size: 1.28rem;
+    font-size: 1.08rem;
     line-height: 1.28rem;
     font-weight: 300;
 
@@ -186,7 +179,7 @@ html {
 }
 .page1 .name{
     position: absolute;
-    bottom: 2.72rem;
+    bottom: 3.72rem;
     left: 2.04rem;
     width: 2.6rem;
     height: .76rem;
@@ -203,12 +196,12 @@ html {
     animation: fadeInUp 2s ease 1.6s 1 both;
 }
 .page1 .name.name2{
-    bottom: 1.94rem;
+    bottom: 2.94rem;
     font-size: .28rem;
 }
 .page1 .chance{
     position: absolute;
-    bottom: 1.34rem;
+    bottom: 2.34rem;
     left: 2.04rem;
     width: 2.6rem;
     text-align: center;
